@@ -1,0 +1,11 @@
+.idea
+build/
+example/
+.npmignore
+node_modules/
+index.html
+.gitignore
+npm-debug.log
+.babelrc
+webpack.config.js
+.npminstall.done
